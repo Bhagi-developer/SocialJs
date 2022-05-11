@@ -1,4 +1,4 @@
-Find missing two numbers in array
+Find two missing numbers in array when n is given and give array's size is n-2
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         //brute force
