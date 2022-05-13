@@ -88,3 +88,22 @@ but if u write the following,
 
 
 -------------------------------------------------------------------------------
+sc.next() and sc.nextLine()
+note that when u take an input with,
+         sc.next()
+         sc.nextLine()
+         or 
+         sc.nextInt()
+         sc.nextLine()
+         or 
+         sc.next().charAt(0)
+         sc.nextLine()         
+it will not take second input.
+Reason- when u take first input and press enter(means /n input), it will only take first input and /n is taken by nextLine as an input.
+because nextLine starts from where previous input is ended till line end.
+so u need to write this,
+        sc.nextInt()
+        sc.nextLine()
+        sc.nextLine().
+        or 
+        Scanner sc = new Scanner(System.in).useDelimiter("\\n");
