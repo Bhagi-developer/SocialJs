@@ -103,7 +103,7 @@ Reason- when u take first input and press enter(means /n input), it will only ta
 because nextLine starts from where previous input is ended till line end.
 so u need to write this,
         sc.nextInt()
-        sc.nextLine()
+        sc.nextLine() (only sc.nextLine() can save sc.nextLine() here)
         sc.nextLine().
         or 
         Scanner sc = new Scanner(System.in).useDelimiter("\\n");
