@@ -1,4 +1,4 @@
-Find two missing numbers in array when n is given and give array's size is n-2
+**Find two missing numbers in array when n is given and give array's size is n-2
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         //brute force
@@ -58,3 +58,33 @@ class Solution {
     }
 }
 -------------------------------------------------------------------------------------------
+**type casting in java
+if you write,
+      int a=3;
+      float b=a;
+then automatically int converts into float
+this happens when left side is in higher number from right side type,
+this higher number can be defined by floowing series
+      byte < short < char < int < long < float < double .
+
+let's say you have,
+     int a=3;
+     int b=2;
+     float c=a/b;
+then your c vlue will be 1.0 instead of 1.5 .
+but if u write the following,
+    int a=3;
+    int b=2;
+    float a1=a;(automatically converted)
+    float b1=b;
+    float c=a/b;
+    then your c value will be 1.5 .
+    
+ float can store at max 6 to 7 decimal points.
+ but if u write this,
+     float a=1.1234567999999f;
+ then your float value will give rounded value of above
+     a=1.1234568f;
+
+
+-------------------------------------------------------------------------------
