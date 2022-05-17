@@ -85,7 +85,22 @@ but if u write the following,
      float a=1.1234567999999f;
  then your float value will give rounded value of above
      a=1.1234568f;
-
+     
+     
+ if you write,
+      float a=8/5;
+ value of a will be 1.0000.
+ But, if you write,
+      float a=(float)8/5;
+ 
+ 
+ Array always take int as index. so,
+                 long a=5;
+                 arr[a];
+ will give an error that, lossy conversion from long to int is not possible. lossy means automatic conversion.
+ you should write above like this,
+                 long a=5;
+                 arr[(int)a];
 
 -------------------------------------------------------------------------------
 sc.next() and sc.nextLine()
