@@ -122,3 +122,21 @@ so u need to write this,
         sc.nextLine().
         or 
         Scanner sc = new Scanner(System.in).useDelimiter("\\n");
+
+-----------------------------------------------------------------
+ascii values of all characters,
+'1'=49
+'2'=50
+.....
+'a'=97
+'b'=98
+.....
+'A'=65
+'B'=66
+.....
+so if you write,
+         char n='1';
+         int m=n;
+         System.out.print(m);
+it will produce 49 as output.         
+
