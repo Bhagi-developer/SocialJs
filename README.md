@@ -2,6 +2,10 @@
 # Features
 • Login - SignUp 
 
+• Two Factor Authentication
+
+• Forgot Password
+
 • Create, Delete Your post
 
 • Realtime Chat with other users
