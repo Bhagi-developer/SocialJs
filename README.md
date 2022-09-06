@@ -53,7 +53,17 @@
 
 • check demo of creating a post
 
-![register-success](https://user-images.githubusercontent.com/83909096/188696124-1d03c704-163d-49af-9711-8ae0630fd0ad.jpg)
+https://user-images.githubusercontent.com/83909096/188701189-243b64d2-469d-4b51-8041-18ede09146c1.mp4
+
+• check demo of start chatting with a friend
+
+https://user-images.githubusercontent.com/83909096/188701785-c7034211-2726-4dca-ae53-2f6decb254e6.mp4
+
+• check demo of updating your profile
+
+
+
+
 
 
 
