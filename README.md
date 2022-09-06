@@ -61,6 +61,9 @@ https://user-images.githubusercontent.com/83909096/188701785-c7034211-2726-4dca-
 
 • check demo of updating your profile
 
+https://user-images.githubusercontent.com/83909096/188702905-4feeb05a-ddd1-4c38-878e-306e0fdb11f2.mp4
+
+
 
 
 
