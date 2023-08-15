@@ -34,47 +34,52 @@ https://github.com/Bhagi-developer/SocialJs/assets/83909096/eb96df34-221d-4d84-a
 
  • Register Screen 
 
-![register](https://user-images.githubusercontent.com/83909096/188693024-bfd16e2b-4c5c-42a9-8451-925485ff9c62.jpg)
-
- • when you register with a username/ email which already exists in databse
-
-![register-error](https://user-images.githubusercontent.com/83909096/188693386-358a739e-18a4-4330-9801-e85cfcf3988c.jpg)
+![Register screen](https://github.com/Bhagi-developer/SocialJs/assets/83909096/11de34e1-a0f8-4f88-8362-737f24215d5d)
 
  • when you register successfully
  
  ![register-success](https://user-images.githubusercontent.com/83909096/188694522-1433e8be-64b8-46cf-922d-b718f0cf10be.jpg)
  
- • After a successful registration, you will get a new hashed password for two step verification
+ • After successful registration, you will get a new hashed password for two-step verification
  
  ![email](https://user-images.githubusercontent.com/83909096/188695440-808af9b7-f394-4792-896f-dd2e7570638c.jpg)
  
  • Login screen
  
- ![login](https://user-images.githubusercontent.com/83909096/188695158-a98841c6-a909-4c9f-8f1b-28825507de21.jpg)
-
- • Login error
- 
- ![email-Error](https://user-images.githubusercontent.com/83909096/188695243-4a065204-367e-44e1-94fb-26e227702967.jpg)
+ ![login](https://github.com/Bhagi-developer/SocialJs/assets/83909096/e346df6e-7cc4-4775-9df1-f922684dafb2)
 
  • Home screen
  
- ![home](https://user-images.githubusercontent.com/83909096/188695556-dfaf6a20-1958-4246-87c2-5e60d6c6c656.jpg)
+![HOme](https://github.com/Bhagi-developer/SocialJs/assets/83909096/cdadf7b2-3f0a-40db-9235-5f6b69716d60)
 
-• Profile Screen
+• Create post demo
 
-![my-profile](https://user-images.githubusercontent.com/83909096/188695620-80d5d58b-1fca-4d6c-9dfd-b1035db43f3e.jpg)
+https://github.com/Bhagi-developer/SocialJs/assets/83909096/ad4ee410-d680-4170-8eb2-d7cec18cd880
 
-• check demo of creating a post
+• Running Project on LocalHost
 
-https://user-images.githubusercontent.com/83909096/188701189-243b64d2-469d-4b51-8041-18ede09146c1.mp4
+https://github.com/Bhagi-developer/SocialJs/assets/83909096/5439f031-9c9b-4d75-998a-ed1eda43c2ae
 
-• check demo of start chatting with a friend
+• Interaction with a post demo
 
-https://user-images.githubusercontent.com/83909096/188701785-c7034211-2726-4dca-ae53-2f6decb254e6.mp4
+https://github.com/Bhagi-developer/SocialJs/assets/83909096/80e892c4-0807-42f8-98bc-c5d498c90df9
 
-• check demo of updating your profile
+• Realtime chat demo
 
-https://user-images.githubusercontent.com/83909096/188702905-4feeb05a-ddd1-4c38-878e-306e0fdb11f2.mp4
+https://github.com/Bhagi-developer/SocialJs/assets/83909096/d8cabeba-1565-4990-a0ee-7948aa57385e
+
+• Profile update demo
+
+https://github.com/Bhagi-developer/SocialJs/assets/83909096/87a05d49-ed68-4f16-87a3-dd3323fc343e
+
+• Follow/Unfollow user demo
+
+https://github.com/Bhagi-developer/SocialJs/assets/83909096/ca0b2092-2da2-4f16-b7d6-39db89368bcb
+
+
+
+
+
 
 
 
