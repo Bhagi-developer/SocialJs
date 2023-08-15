@@ -52,13 +52,13 @@ https://github.com/Bhagi-developer/SocialJs/assets/83909096/eb96df34-221d-4d84-a
  
 ![HOme](https://github.com/Bhagi-developer/SocialJs/assets/83909096/cdadf7b2-3f0a-40db-9235-5f6b69716d60)
 
-• Create post demo
-
-https://github.com/Bhagi-developer/SocialJs/assets/83909096/ad4ee410-d680-4170-8eb2-d7cec18cd880
-
 • Running Project on LocalHost
 
 https://github.com/Bhagi-developer/SocialJs/assets/83909096/5439f031-9c9b-4d75-998a-ed1eda43c2ae
+
+• Create post demo
+
+https://github.com/Bhagi-developer/SocialJs/assets/83909096/ad4ee410-d680-4170-8eb2-d7cec18cd880
 
 • Interaction with a post demo
 
