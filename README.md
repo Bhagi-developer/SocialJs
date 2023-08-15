@@ -2,28 +2,41 @@
 # Features
 • Login - SignUp 
 
+• Strictly focusing on college communities
+
+• Connect with your college community
+
+• It uses the College's own database of legitimate email ids to restrict users outside of the college to signup
+
 • Two Factor Authentication
 
-• Forgot Password
+• Forgot Password/ get credentials on mail 
 
 • Create, Delete Your post
 
+• Follow/Unfollow other users of your college
+
 • Realtime Chat with other users
 
-• RealTime Notification when someone likes, comment on your post or message you
+• RealTime Notification when someone likes, comments on your post or sends a message to you
 
 • Like, Comment, Bookmark on a post
 
-• Update Your Profile, Profile pic, Cover pic
+• Update Your Profile, Profile pic, and Cover pic
 
 • Logout
 
+
 # Demo references
+ • Starting a project on a local host
+
+https://github.com/Bhagi-developer/SocialJs/assets/83909096/eb96df34-221d-4d84-a791-a6264629cbca
+
  • Register Screen 
 
 ![register](https://user-images.githubusercontent.com/83909096/188693024-bfd16e2b-4c5c-42a9-8451-925485ff9c62.jpg)
 
- • when you register with an username/ email which is already exist in databse
+ • when you register with a username/ email which already exists in databse
 
 ![register-error](https://user-images.githubusercontent.com/83909096/188693386-358a739e-18a4-4330-9801-e85cfcf3988c.jpg)
 
